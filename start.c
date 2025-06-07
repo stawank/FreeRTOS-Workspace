@@ -1,5 +1,12 @@
-void start(){
+void stawan(){
 
+return;
+
+}
+
+
+void start(){
+    stawan();
 
     return;
 }

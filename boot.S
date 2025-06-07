@@ -1,6 +1,6 @@
     .section .vectors
 vector_table:
-    .word 0xabcd
+    .word __stack
     .word reset_handler
     .zero 400
 
