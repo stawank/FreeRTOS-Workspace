@@ -1,5 +1,5 @@
 # FreeRTOS
-Companion Repo for the FreeRTOS Course
+Repo for the FreeRTOS
 
 # Resources
 - [FreeRTOS Documentation](https://github.com/FreeRTOS/FreeRTOS-Kernel-Book/releases/download/V1.1.0/Mastering-the-FreeRTOS-Real-Time-Kernel.v1.1.0.pdf)

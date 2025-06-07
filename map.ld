@@ -5,7 +5,7 @@ MEMORY
 }
 SECTIONS
 {
-    .text:{
+    .text : {
         *(.vectors)
         *(.text)
     } > FLASH
