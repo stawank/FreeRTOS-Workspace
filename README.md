@@ -8,6 +8,3 @@ Repo for the FreeRTOS
 - [STM32VLDISCOVERY Board](https://www.st.com/resource/en/user_manual/um0919-stm32vldiscovery-stm32-value-line-discovery-stmicroelectronics.pdf)
   - [Datasheet](https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 
-# License
-
-All rights reserved. Only for learning purposes.
